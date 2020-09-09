@@ -1,0 +1,12 @@
+{
+	"users": [
+		{
+			"email": "nikhilesh.ram20@gmail.com",
+			"password": "$2b$10$4PzHeDDssfnhZ3aJjPHele7Bpk5PtKaUlwRxj8iXEoLf.42xWMNxS"
+		},
+		{
+			"email": "nr6994@srmist.edu.in",
+			"password": "$2b$10$3LVfEOChiyQ4H2s1az3lueF6BEEtnrV6PeW4BZtbaHwZv1tUfnzOO"
+		}
+	]
+}
